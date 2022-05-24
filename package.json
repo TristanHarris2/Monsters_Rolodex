@@ -2,7 +2,7 @@
   "name": "monster_rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TristanHarris2.github.io//Monsters_Rolodex",
+  "homepage": "https://tristanharris2.github.io/Monsters_Rolodex/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
